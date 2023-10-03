@@ -1,2 +1,3 @@
 # TP_Dictionnaire
-TP sur la Gestion des Dictionnaires
+<br>
+Développer un système de gestion de salles informatiques. Chaque salle contient un nombre défini de postes, et sur chaque poste, une liste de logiciels est installée. Pour obtenir un état détaillé de chaque salle, comprenant la liste des postes et les logiciels installés, ainsi qu'un récapitulatif global des logiciels et de leur quantité dans l'établissement, on utilise un dictionnaire. Ce dictionnaire associe des objets de type "Logiciel" en tant que clés à des valeurs entières, représentant le nombre cumulé de logiciels. Avant d'ajouter un élément au dictionnaire, il est important de vérifier si la clé correspondante existe déjà.
